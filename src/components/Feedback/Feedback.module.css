@@ -1,0 +1,8 @@
+.feedback {
+  list-style: none;
+  text-transform: capitalize;
+}
+
+.feedback li {
+  margin: 10px 0;
+}
